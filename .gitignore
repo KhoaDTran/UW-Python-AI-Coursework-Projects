@@ -3,3 +3,4 @@
 *.gz
 .vscode
 __pycache__
+.git
