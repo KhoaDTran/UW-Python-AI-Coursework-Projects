@@ -1,0 +1,36 @@
+Khoa Tran
+CSE 163 AB
+
+Response to questions in part 3 of Homework 3
+
+1. a) I think the bar chart is an effective data visualization for the problem in part 1b
+      because it allows for direct comparision between the male and female while having a
+      variable of all being the combination of the male and female variables. This comparision
+      allows for quick visualization of the percentage of female completing high school is
+      much higher than the male individuals.
+   b) In part 1c, I choose a line plot with two different lines, one for the minimum degree in high
+      school and the other for bachelor's degree. This allows for comparision throughout the years
+      showing the percentage of both starting at 1990 and going towards 2010. This chart also allows
+      for visualization of the difference in percentage and showing how the percentage of bachelor's
+      degree is much lower than high school. The line chart shows the growth of individual degrees
+      and shows how the percentage of bachelor's degree grows much slower than the percentage for
+      high school
+
+2. A possible bias present in this dataset is based on the reporting
+   standards back in 1990 as it was much harder to record data for graduates
+   of high school. On top of that, there was a revision in 1993 with the
+   defintion of high school graduates. Lastly, from the footnotes,
+   data are based on sample surveys of the noninstitutionalized population, 
+   which excludes persons living in institutions. This allows for bias and
+   a possible skew of the data
+
+3. With the data implementing multiple races and sex types with graduation
+   degree, there are many ways to analyze this data unethically. Since the
+   data is constricted to a lower standard of recording data back in the day,
+   any futures predictions would be skewed and result in unethical results.
+   In the present day, there is much more to sex of an individual compared to
+   just male and female. Compared with the races of individuals, categorizing
+   someone that has multiple races is extremely difficult and can result in
+   unethical results with data skewed for a specific race or sex. This data
+   should be more specific in the sex and race in order to eliminate possible
+   unethical results.

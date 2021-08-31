@@ -1,0 +1,13 @@
+id,name,level,personality,type,weakness,atk,def,hp,stage
+53,Persian,40,mild,normal,fighting,104,116,147,2
+126,Magmar,44,docile,fire,water,96,83,153,1
+99,Kingler,33,adamant,water,electric,110,169,29,2
+3,Venusaur,44,sassy,grass,fire,136,195,92,3
+23,Ekans,81,hasty,poison,psychic,30,108,20,1
+11,Metapod,4,naive,grass,fire,30,114,22,2
+126,Magmar,96,modest,fire,water,62,114,155,1
+137,Porygon,96,relaxed,normal,fighting,68,50,127,1
+69,Bellsprout,84,lonely,grass,fire,149,32,45,1
+10,Caterpie,3,serious,bug,flying,7,10,15,1
+12,Butterfree,12,hasty,bug,flying,20,25,35,3
+35,Clefairy,18,impish,fairy,poison,33,25,50,1
